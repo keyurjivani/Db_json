@@ -199,6 +199,5 @@ let questions = [
           D: "All of the above.",
         },
         correct: "D",
-    },
-    
+    },    
   ];
