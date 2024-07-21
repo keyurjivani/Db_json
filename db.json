@@ -8,7 +8,7 @@
               "C": "A data type used to store numbers only.",
               "D": "None of the above."
             },
-            "correct": "A"
+            "correct": "A: A collection of objects stored in a single variable."
           },
           {
             "que":
@@ -19,7 +19,7 @@
               "C": "products.name[1]",
               "D": "products.1.name"
             },
-            "correct": "A"
+            "correct": "A: products[1].name"
           },
           {
               "que":
@@ -30,7 +30,7 @@
                 "C": "shift()",
                 "D": "unshift()"
               },
-              "correct": "A"
+              "correct": "A: push()"
           },
           {
               "que":
@@ -41,7 +41,7 @@
                 "C": "shift()",
                 "D": "unshift()"
               },
-              "correct": "C"
+              "correct": "C: shift()"
           },
           {
               "que":
@@ -52,7 +52,7 @@
                 "C": "The last object in the products array.",
                 "D": "An error."
               },
-              "correct": "A"
+              "correct": "A: The number of objects in the products array."
           },
           {
               "que":
@@ -63,7 +63,7 @@
                 "C": "Use a forEach method.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -74,7 +74,7 @@
                 "C": "reduce()",
                 "D": "find()"
               },
-              "correct": "A"
+              "correct": "A: filter()"
           },
           {
               "que":
@@ -85,7 +85,7 @@
                 "C": "Use the reduce() method.",
                 "D": "Use a for loop."
               },
-              "correct": "A"
+              "correct": "A: Use the map() method."
           },
           {
               "que":
@@ -96,7 +96,7 @@
                 "C": "Filters elements from the array.",
                 "D": "Modifies the original array."
               },
-              "correct": "B"
+              "correct": "B: Returns a single value."
           },
           {
               "que":
@@ -107,7 +107,7 @@
                 "C": "Use the filter() method.",
                 "D": "Use the map() method."
               },
-              "correct": "A"
+              "correct": "A: Use the sort() method with a custom compare function."
           },
           {
               "que":
@@ -118,7 +118,7 @@
                 "C": "find() is for objects, and findIndex() is for arrays.",
                 "D": "There is no difference."
               },
-              "correct": "A"
+              "correct": "A: find() returns the first element that satisfies the condition, while findIndex() returns its index."
           },
           {
               "que":
@@ -129,7 +129,7 @@
                 "C": "Use the spread operator (...).",
                 "D": "None of the above."
               },
-              "correct": "A"
+              "correct": "A: Use the JSON.parse(JSON.stringify()) method."
           },
           {
               "que":
@@ -140,7 +140,7 @@
                 "C": "O(log n)",
                 "D": "Depends on the array size."
               },
-              "correct": "A"
+              "correct": "A: O(1)"
           },
           {
               "que":
@@ -151,7 +151,7 @@
                 "C": "O(log n)",
                 "D": "Depends on the array size."
               },
-              "correct": "B"
+              "correct": "B: O(n)"
           },
           {
               "que":
@@ -162,7 +162,7 @@
                 "C": "Profile code to identify bottlenecks.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -173,7 +173,7 @@
                 "C": "Calculate total price based on product quantities.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -184,7 +184,7 @@
                 "C": "Display search results in a user-friendly format.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -195,7 +195,7 @@
                 "C": "Load only the necessary data for the current page.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -206,7 +206,7 @@
                 "C": "Provide visual feedback for the sorted list.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           },
           {
               "que":
@@ -217,7 +217,7 @@
                 "C": "Optimize DOM manipulation.",
                 "D": "All of the above."
               },
-              "correct": "D"
+              "correct": "D: All of the above."
           }
     ]
 }
